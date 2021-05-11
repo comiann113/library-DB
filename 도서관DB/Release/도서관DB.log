@@ -1,0 +1,10 @@
+﻿  소스.cpp
+D:\C언어응용\도서관DB\도서관DB\소스.cpp(11,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\C언어응용\도서관DB\도서관DB\소스.cpp(11,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+D:\C언어응용\도서관DB\도서관DB\소스.cpp(11,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+D:\C언어응용\도서관DB\도서관DB\소스.cpp(11,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  도서관DB.vcxproj -> D:\C언어응용\도서관DB\Release\도서관DB.exe
